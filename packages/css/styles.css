@@ -366,6 +366,7 @@ img {
   padding: 1rem;
   border-radius: 0.5rem;
   font-weight: var(--font-medium);
+  line-height: 5px;
 }
 
 .button:hover {
