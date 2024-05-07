@@ -363,7 +363,7 @@ img {
   display: inline-block;
   background-color: var(--first-color);
   color: #ffff;
-  padding: 1rem;
+  padding: 1px;
   border-radius: 0.5rem;
   font-weight: var(--font-medium);
   line-height: 5px;
