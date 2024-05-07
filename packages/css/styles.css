@@ -363,7 +363,7 @@ img {
   display: inline-block;
   background-color: var(--first-color);
   color: #ffff;
-  padding: 3px;
+  padding: 8px;
   border-radius: 0.5rem;
   font-weight: var(--font-medium);
   line-height: 5px;
@@ -395,7 +395,7 @@ img {
 }
 
 .button--small {
-  padding: 0.75rem 1rem;
+  padding: 8px;
 }
 
 .button--link {
